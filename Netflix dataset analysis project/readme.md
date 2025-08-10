@@ -47,7 +47,7 @@ Content Distribution by Type – Movies vs TV Shows
 
 1. Top Countries Producing Content
 
-2. Yearly Content Growth
+2. Yearly Content Growth https://github.com/vikaschaudhary777/Data-Analyst-Projects/blob/77a857c05aac4eea36c6945ca04ccd6b0c6387a8/Netflix%20dataset%20analysis%20project/eda%20s1%20i.png
 
 3. Most Common Ratings
 
